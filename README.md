@@ -3,3 +3,6 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 
 # Sprint 1
 ![VelocityChart](https://user-images.githubusercontent.com/65682018/107084503-23b1b880-67c5-11eb-9e97-091a8c1b8026.png)
+
+# Trello Board
+https://trello.com/b/xMViNHQY
