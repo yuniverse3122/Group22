@@ -6,3 +6,5 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 
 # Trello Board
 https://trello.com/b/xMViNHQY
+# Burndown Chart
+![line-graph (1)](https://user-images.githubusercontent.com/78665808/107131284-fb988700-68a2-11eb-9370-27b03f8ae754.png)
