@@ -8,9 +8,9 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 # Sprint 1
 * [Product Backlog](https://docs.google.com/spreadsheets/d/1T_YFjJA2x297F3sX_Lql-QHOxClX8nvLCutoh2QMx5k/edit?usp=sharing)
 
-* [Sprint Backlog]
+* [Sprint Backlog](https://trello.com/b/xMViNHQY/cop4331)
 
-* [Requirments](https://trello.com/b/xMViNHQY)
+* [Requirments](https://trello.com/b/xMViNHQY/cop4331)
 
 * [Burndown Chart](https://user-images.githubusercontent.com/78665808/107131284-fb988700-68a2-11eb-9370-27b03f8ae754.png)
 
@@ -18,5 +18,5 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 
 
 ## Task Allocation
-* Eris Fitzgerald - Created burndown chart 
+* Eris Fitzgerald - Created burndown chart, assisted in formatting the Sprint and Trello boards, researched AI articles to present
 * Deron Gentles - Created velocity chart
