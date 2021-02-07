@@ -19,3 +19,4 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 
 ## Task Allocation
 Eris Fitzgerald - Created burndown chart 
+Deron Gentles - Created velocity chart
