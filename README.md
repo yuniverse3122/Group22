@@ -18,3 +18,6 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 
 [Trello Board](https://trello.com/b/xMViNHQY)
 
+
+# Task Allocation
+Eris Fitzgerald - Created burndown chart 
