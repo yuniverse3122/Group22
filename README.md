@@ -23,4 +23,7 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 
 ## Task Allocation
 * Eris Fitzgerald - Created burndown chart, assisted in formatting the Sprint and Trello boards, researched AI articles to present
-* Deron Gentles - Created velocity chart
+* Deron Gentles - Created velocity chart, researched AI articles
+* David Yun - Product backlog, researched articles
+* Jialin Zheng - Created Trello Board, vision statement and researched articles
+* Tadeas Lobreis - Sprint backlog, requirements, researched articles
