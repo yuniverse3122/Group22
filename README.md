@@ -3,6 +3,10 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 
 ## Team Members
   * Eris Fitzgerald
+  * Deron Gentles
+  * David Yun
+  * Jialin Zheng
+  * Tadeas Lobreis
 
 
 # Sprint 1
