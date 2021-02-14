@@ -58,8 +58,7 @@ See Code Complete, Chapter 3
 See Code Complete, Chapter 3
 
 # Security
-
-See Code Complete, Chapter 3
+Security isn't applicable to our project because we're not storing any user information beyond a simple username and password. 
 
 # Performance
 
