@@ -2,6 +2,14 @@
 
 You should have your context, container, and component (c4model.com) diagrams in this section, along with a description and explanation of each diagram and a table that relates each block to one or more user stories. 
 
+### Container Diagram
+![image](https://user-images.githubusercontent.com/78665808/107889314-b1855600-6edf-11eb-9c50-bfac1f7035ae.png)
+### Component Diagram
+![image](https://user-images.githubusercontent.com/78665808/107889319-b5b17380-6edf-11eb-8f8a-87cca10c0d9b.png)
+### Context Diagram
+![image](https://user-images.githubusercontent.com/78665808/107889326-bb0ebe00-6edf-11eb-8eff-2bc0f5b9a003.png)
+
+
 See Code Complete, Chapter 3 and https://c4model.com/
 
 # Code Design
