@@ -5,12 +5,16 @@ The architecture for this project consists of a robotic boxing dummy as well as 
 ### Context Diagram
 The context diagram displays the relationship between the user, our DUM system and our robot.
 ![image](https://user-images.githubusercontent.com/78665808/107889326-bb0ebe00-6edf-11eb-8eff-2bc0f5b9a003.png)
+
 ### Container Diagram
 The Container diagram shows the high-level shape of the software architecture and how responsibilities are distributed across it. It also shows the major technology choices and how the containers communicate with one another.
 ![image](https://user-images.githubusercontent.com/78665808/107889314-b1855600-6edf-11eb-9c50-bfac1f7035ae.png)
+
 ### Component Diagram
 The Component diagram shows how a container is made up of a number of "components", what each of those components are, their responsibilities and the technology/implementation details.
 ![image](https://user-images.githubusercontent.com/78665808/107889319-b5b17380-6edf-11eb-8f8a-87cca10c0d9b.png)
+
+[Table Relation](https://user-images.githubusercontent.com/65682018/107891603-bc46e780-6eed-11eb-8137-9fb881f395f1.png)
 
 # Code Design
 
@@ -20,8 +24,6 @@ You should have your UML Class diagram and any other useful UML diagrams in this
 
 [Table Relation](https://user-images.githubusercontent.com/78665808/107889256-518eaf80-6edf-11eb-8a10-918a9f320cdf.png)
 
-
-See Code Complete, Chapter 3 and https://c4model.com/
 
 # Data Design
 The data from users will store in database to help to train AI to improve recognize fist better and number of punches.
