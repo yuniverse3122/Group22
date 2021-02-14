@@ -8,12 +8,10 @@ See Code Complete, Chapter 3 and https://c4model.com/
 
 You should have your UML Class diagram and any other useful UML diagrams in this section. Each diagram should be accompanied by a brief description explaining what the elements are and why they are in the diagram. For your class diagram, you must also include a table that relates each class to one or more user stories. 
 
-[Class Diagram](https://github.com/yuniverse3122/Group22/files/5978481/Class.Diagram.pdf)
-
-
 See Code Complete, Chapter 3 and https://c4model.com/
 
 # Data Design
+The data from users will store in database to help to train AI to improve recognize fist better and number of punches.
 
 If you are using a database, you should have a basic Entity Relationship Diagram (ERD) in this section. This diagram should describe the tables in your database and their relationship to one another (especially primary/foreign keys), including the columns within each table. 
 
@@ -26,6 +24,12 @@ You should list the assumptions, rules, and guidelines from external sources tha
 See Code Complete, Chapter 3
 
 # User Interface Design
+Login Page
+![UI](https://user-images.githubusercontent.com/69992661/107888546-e80ca200-6eda-11eb-837c-9c1ebcb3029d.png)
+User Interface
+![UI2](https://user-images.githubusercontent.com/69992661/107888547-e9d66580-6eda-11eb-84f3-b2839d5e7c93.png)
+Board
+![UI3](https://user-images.githubusercontent.com/69992661/107888549-eb079280-6eda-11eb-8a01-35c3f029b9a1.PNG)
 
 You should have one or more user interface screens in this section. Each screen should be accompanied by an explaination of the screens purpose and how the user will interact with it. You should relate each screen to one another as the user transitions through the states of your application. You should also have a table that relates each window or component to the support using stories. 
 
