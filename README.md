@@ -27,3 +27,22 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 * David Yun - Product backlog, researched articles
 * Jialin Zheng - Created Trello Board, vision statement and researched articles
 * Tadeas Lobreis - Sprint backlog, requirements, researched articles
+
+# Sprint 2
+* [Product Backlog](https://docs.google.com/spreadsheets/d/1T_YFjJA2x297F3sX_Lql-QHOxClX8nvLCutoh2QMx5k/edit?usp=sharing)
+
+* [Sprint Backlog](https://trello.com/b/xMViNHQY/cop4331)
+
+* [Requirments](https://trello.com/b/xMViNHQY/cop4331)
+
+* [Burndown Chart]
+
+* [Velocity Chart]
+
+
+## Task Allocation
+* Eris Fitzgerald - Created the Low Level UML diagrams (Class diagram) and the table relating the class diagram to our User Stories
+* Deron Gentles - 
+* David Yun - 
+* Jialin Zheng - 
+* Tadeas Lobreis - 
