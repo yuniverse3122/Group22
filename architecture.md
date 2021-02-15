@@ -57,22 +57,22 @@ See Code Complete, Chapter 3
 
 # Resource Management
 
-See Code Complete, Chapter 3
+Our resource mangement mainly revolves around our budget for building the actual punching bag robot. We've allocated most of our funds at this point towards parts. Other resources that regard crashing and overwhelming our app have not been decided yet as we are still in the early developmental days. 
 
 # Security
-Security isn't applicable to our project because we're not storing any user information beyond a simple username and password. 
+Security of our project mainly focuses on the usernames and passwords we're going to be storing for the login of each of our customers. We're looking toward basic, if any at all, encrpytion because all of this information will be stored locally with the user. 
 
 # Performance
 
-See Code Complete, Chapter 3
+This a simple app that won't depend on much user input and has a predictable responses. Because of this, we're not expecting much extremes with performance. 
 
 # Scalability
 
-See Code Complete, Chapter 3
+It's possible that DUM could become a sensation, but even so, all user data will continue to be stored locally. The only updates that we need to make would be to our website to possibly update the severs and prevent crashes if serveral hundred people want to connect at once. Another issues with scalability is if we need to make more DUM robots for more people, in which case our budget will need a dramatic change. 
 
 # Interoperability
 
-See Code Complete, Chapter 3
+Senors in DUM will relay force of punches and number of hit punches to the application software. The application software will tell DUM what kind of workout the user has selected. 
 
 # Internationalization/Localization
 
