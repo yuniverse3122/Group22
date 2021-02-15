@@ -57,22 +57,22 @@ See Code Complete, Chapter 3
 
 # Resource Management
 
-Our resource mangement mainly revolves around our budget for building the actual punching bag robot. We've allocated most of our funds at this point towards parts. Other resources that regard crashing and overwhelming our app have not been decided yet as we are still in the early developmental days. 
+See Code Complete, Chapter 3
 
 # Security
-Security of our project mainly focuses on the usernames and passwords we're going to be storing for the login of each of our customers. We're looking toward basic, if any at all, encrpytion because all of this information will be stored locally with the user. 
+Security isn't applicable to our project because we're not storing any user information beyond a simple username and password. 
 
 # Performance
 
-This a simple app that won't depend on much user input and has a predictable responses. Because of this, we're not expecting much extremes with performance. 
+See Code Complete, Chapter 3
 
 # Scalability
 
-It's possible that DUM could become a sensation, but even so, all user data will continue to be stored locally. The only updates that we need to make would be to our website to possibly update the severs and prevent crashes if serveral hundred people want to connect at once. Another issues with scalability is if we need to make more DUM robots for more people, in which case our budget will need a dramatic change. 
+See Code Complete, Chapter 3
 
 # Interoperability
 
-Senors in DUM will relay force of punches and number of hit punches to the application software. The application software will tell DUM what kind of workout the user has selected. 
+See Code Complete, Chapter 3
 
 # Internationalization/Localization
 
@@ -92,22 +92,20 @@ See Code Complete, Chapter 3
 
 # Architectural Feasibility
 
-See Code Complete, Chapter 3
+The system for this project is technically feasible. The robot will be able to move and operate fast enough to respond to the user. By using libraries such as Java Machine Learning Library we will also have the capacity to solve the AI problems in this project.
 
 # Overengineering
 
-See Code Complete, Chapter 3
+This group has decided against overengineering code in favor of finding the simplest and most efficient solution to the problem. We decided on this approach because we believe it is the most effective way to complete this project.
 
 # Build-vs-Buy Decisions
 
-This section should list the third party libraries your system is using and describe what those libraries are being used for.
-
-See Code Complete, Chapter 3
+Since the robotic dummy will be using artificial intelligence to track analyze the user's movement, we decided that it would be beneficial to use an AI library. We have decided on using Java Machine Learning Library (Java-ML).
 
 # Reuse
 
-See Code Complete, Chapter 3
+This project will not be reusing any preexisiting softwaretest cases, data formats, or other materials. Therefore we do not have to consider how reused code will conform.
 
 # Change Strategy
 
-See Code Complete, Chapter 3
+Throughout the course of any project changes should be expected. To handle future changes, this group will be using table-driven technique for the test cases as opposed to hard coded if tests. Data that would otherwise be hard coded will instead be put in an external file.
