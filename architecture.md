@@ -53,11 +53,16 @@ User Interface
 
 ![UI](https://user-images.githubusercontent.com/69992661/107888546-e80ca200-6eda-11eb-837c-9c1ebcb3029d.png)
 
-This is the tentaive main menu user's will see when they login. History will allows user to see how many workouts they,ve done and specific stats such as type and number of punches thrown for every workout. The preselected workout are set currently at 2 difficulties, training and proffesional. To access free workouts, the user would click "custom workouts" and be able to set a speed and difuculty from there.
+This is the tentaive main menu user's will see when they login. History will allows user to see how many workouts they,ve done and specific stats such as type and number of punches thrown for every workout. The preselected workout are set currently at 2 difficulties, training and proffesional. To access free workouts, the user would click "custom workouts" and be able to set a speed and difuculty from there. Also by hitting "connect" users can find direction on how to correctly set up their dummy.
+
+This directly relates to user story #9:
+"have a website or app where customers or people, that are interested in our product, to find all the information and guides they need to correctly operate our product."
 
 ![UI2](https://user-images.githubusercontent.com/69992661/107888547-e9d66580-6eda-11eb-84f3-b2839d5e7c93.png)
 
 This is the interface user's will see during a custom workout. They can see a few stats live such as hit rate, number of punches thrown and time of workout. They can also change the difficulty of the custom workout without having to restart.
+This directly relates to user story #8 which states:
+"users will be able to change different kinds of workouts and the intensity. As well as keeping track of statistical data."
  
 
 # Resource Management
