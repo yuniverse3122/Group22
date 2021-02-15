@@ -48,6 +48,7 @@ Login Page
 
 ![UI3](https://user-images.githubusercontent.com/69992661/107888549-eb079280-6eda-11eb-8a01-35c3f029b9a1.PNG)
 
+Just a basic login page that will allow user's to have personalized data reported back to them
 User Interface
 
 ![UI](https://user-images.githubusercontent.com/69992661/107888546-e80ca200-6eda-11eb-837c-9c1ebcb3029d.png)
