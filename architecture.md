@@ -96,7 +96,7 @@ See Code Complete, Chapter 3
 
 # Fault Tolerance
 
-See Code Complete, Chapter 3
+The different modes, whether that be custom or preselected workout will all be programmed separately and not depend on eachother in any way. Therefore it's likely that if part of the program fails the other modes and features will still work correctly.
 
 # Architectural Feasibility
 
