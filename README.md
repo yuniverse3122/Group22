@@ -44,7 +44,7 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 
 ## Task Allocation
 * Eris Fitzgerald - Created the Low Level UML diagrams (Class diagram) and the table relating the class diagram to our User Stories
-* Deron Gentles - 
+* Deron Gentles - Created the High Level architectural diagrams and helped make the design document.
 * David Yun - 
 * Jialin Zheng - 
 * Tadeas Lobreis - 
