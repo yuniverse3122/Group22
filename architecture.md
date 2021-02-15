@@ -53,13 +53,12 @@ User Interface
 
 ![UI](https://user-images.githubusercontent.com/69992661/107888546-e80ca200-6eda-11eb-837c-9c1ebcb3029d.png)
 
-Board
+This is the tentaive main menu user's will see when they login. History will allows user to see how many workouts they,ve done and specific stats such as type and number of punches thrown for every workout. The preselected workout are set currently at 2 difficulties, training and proffesional. To access free workouts, the user would click "custom workouts" and be able to set a speed and difuculty from there.
 
 ![UI2](https://user-images.githubusercontent.com/69992661/107888547-e9d66580-6eda-11eb-84f3-b2839d5e7c93.png)
 
-You should have one or more user interface screens in this section. Each screen should be accompanied by an explaination of the screens purpose and how the user will interact with it. You should relate each screen to one another as the user transitions through the states of your application. You should also have a table that relates each window or component to the support using stories. 
-
-See Code Complete, Chapter 3
+This is the interface user's will see during a custom workout. They can see a few stats live such as hit rate, number of punches thrown and time of workout. They can also change the difficulty of the custom workout without having to restart.
+ 
 
 # Resource Management
 Our resource mangement mainly revolves around our budget for building the actual punching bag robot. We've allocated most of our funds at this point towards parts. Other resources that regard crashing and overwhelming our app have not been decided yet as we are still in the early developmental days. 
