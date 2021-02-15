@@ -32,9 +32,10 @@ You should have your UML Class diagram and any other useful UML diagrams in this
 # Data Design
 The data from users will store in database to help to train AI to improve recognize fist better and number of punches.
 
-If you are using a database, you should have a basic Entity Relationship Diagram (ERD) in this section. This diagram should describe the tables in your database and their relationship to one another (especially primary/foreign keys), including the columns within each table. 
+ER Diagram
 
-See Code Complete, Chapter 3
+![ER](https://user-images.githubusercontent.com/70419905/107903852-4ad05e80-6f18-11eb-9b52-c599fde36e68.jpg)
+
 
 # Business Rules
 
