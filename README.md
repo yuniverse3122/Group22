@@ -35,9 +35,11 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 
 * [Requirments](https://trello.com/b/xMViNHQY/cop4331)
 
-* [Burndown Chart]
+* [Burndown Chart](https://user-images.githubusercontent.com/78665808/107900885-4e5fe780-6f10-11eb-935d-50829ae0e021.png)
 
-* [Velocity Chart]
+
+* [Velocity Chart](https://user-images.githubusercontent.com/78665808/107900895-528c0500-6f10-11eb-8fe5-e50437468e13.png)
+
 
 
 ## Task Allocation
