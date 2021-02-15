@@ -24,6 +24,10 @@ You should have your UML Class diagram and any other useful UML diagrams in this
 
 [Table Relation](https://user-images.githubusercontent.com/78665808/107889256-518eaf80-6edf-11eb-8a10-918a9f320cdf.png)
 
+[Relating Classes to User Stories](https://docs.google.com/document/d/104ntwLHLAIDE2Dc1h5k9u5RtVSRjRCnS90BPfABrU90/edit?usp=sharing)
+
+[Description of Major Classes](https://docs.google.com/document/d/1sYYbEsj3f-v5YtDeIM7FKj2CtW1EGNwJDpsY7CS7g9A/edit?usp=sharing)
+
 
 # Data Design
 The data from users will store in database to help to train AI to improve recognize fist better and number of punches.
