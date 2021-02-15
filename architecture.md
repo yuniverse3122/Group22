@@ -92,7 +92,9 @@ The inputs will mainly be the force that the user transfers over to the product.
 
 # Error Processing
 
-See Code Complete, Chapter 3
+The product will display a message or inititiate a reset if a hit has not been detected within a certain amount of time. 
+If the system crashes or fails a message will be displayed with an error code and a brief description about the issue that was encountered.
+
 
 # Fault Tolerance
 
