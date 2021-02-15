@@ -77,11 +77,12 @@ Senors in DUM will relay force of punches and number of hit punches to the appli
 
 # Internationalization/Localization
 
-See Code Complete, Chapter 3
+For this product the internationalization and localization will be focused on accurate translation on whichever language the market sees interest in. The text and audio cues will be changed appropriately.
+Since our product is mainly focused on physical activities not much needs to be done for these processes.
 
 # Input/Output
 
-See Code Complete, Chapter 3
+The inputs will mainly be the force that the user transfers over to the product. The outputs will consist of statistical observations such as: number of hits, PSI behind the hit, direction of hit, and the kind of hit.
 
 # Error Processing
 
