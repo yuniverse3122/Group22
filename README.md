@@ -41,8 +41,25 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 * [Velocity Chart](https://user-images.githubusercontent.com/78665808/107900895-528c0500-6f10-11eb-8fe5-e50437468e13.png)
 
 
-# Sprint 3
+## Task Allocation
+* Eris Fitzgerald - Created the Low Level UML diagrams (Class diagram) and the table relating the class diagram to our User Stories
+* Deron Gentles - Created the High Level architectural diagrams and helped make the design document.
+* David Yun - Created the Description of Major Classes and Class Story Relation portion of the design document.
+* Jialin Zheng - Created the UI diagram and description of storing data.
+* Tadeas Lobreis - Worked on Trello Board, Created Sketch and Part list of Physical Model. Created ER diagram and description for UI for design document.
 
+
+# Sprint 3
+* [Product Backlog]()
+
+* [Sprint Backlog]()
+
+* [Requirments]()
+
+* [Burndown Chart]()
+
+
+* [Velocity Chart]()
 
 
 ## Task Allocation
@@ -51,3 +68,4 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 * David Yun - Created the Description of Major Classes and Class Story Relation portion of the design document.
 * Jialin Zheng - Created the UI diagram and description of storing data.
 * Tadeas Lobreis - Worked on Trello Board, Created Sketch and Part list of Physical Model. Created ER diagram and description for UI for design document.
+
