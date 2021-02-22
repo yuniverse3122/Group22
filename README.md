@@ -41,6 +41,9 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 * [Velocity Chart](https://user-images.githubusercontent.com/78665808/107900895-528c0500-6f10-11eb-8fe5-e50437468e13.png)
 
 
+# Sprint 3
+
+
 
 ## Task Allocation
 * Eris Fitzgerald - Created the Low Level UML diagrams (Class diagram) and the table relating the class diagram to our User Stories
