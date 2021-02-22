@@ -64,7 +64,7 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 ## Task Allocation
 * Eris Fitzgerald - Drafted the front end aesthetics for the login GUI, created manual tests, researched load/store methods for username and password records. 
 * Deron Gentles - Created the High Level architectural diagrams and helped make the design document.
-* David Yun - Created the Description of Major Classes and Class Story Relation portion of the design document.
+* David Yun - Visited the TI Innovation Lab to seek mechanical advice (with Tadeas Lobreis), drafted front end for multiple tab view for app development.
 * Jialin Zheng - Created the UI diagram and description of storing data.
 * Tadeas Lobreis - Worked on Trello Board, Created Sketch and Part list of Physical Model. Created ER diagram and description for UI for design document.
 
