@@ -39,9 +39,7 @@ ER Diagram
 
 # Business Rules
 
-You should list the assumptions, rules, and guidelines from external sources that are impacting your program design. 
-
-See Code Complete, Chapter 3
+This section does not apply to our project because the architecture does not depend on any business rules.
 
 # User Interface Design
 Login Page
