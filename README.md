@@ -61,9 +61,15 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 
 * [Velocity Chart]()
 
+* [Source Code](https://github.com/yuniverse3122/Group22/tree/main/SourceCode)
+
+* [Automated Tests](https://github.com/yuniverse3122/Group22/tree/main/SourceCode)
+
+* [Project Demonstration]()
+
 
 ## Task Allocation
-* Eris Fitzgerald - Created the Low Level UML diagrams (Class diagram) and the table relating the class diagram to our User Stories
+* Eris Fitzgerald - Drafted the front end aesthetics for the login GUI, created manual tests, researched load/store methods for username and password records. 
 * Deron Gentles - Created the High Level architectural diagrams and helped make the design document.
 * David Yun - Created the Description of Major Classes and Class Story Relation portion of the design document.
 * Jialin Zheng - Created the UI diagram and description of storing data.
