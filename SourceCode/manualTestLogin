@@ -1,0 +1,29 @@
+Manual Test Procedures:
+
+	The following is the testing procedure for the Login
+GUI, built using the JAVA language. GUI is incapable of store
+and load features, but will be implemented next sprint. 
+
+Actions to take: 
+
+	Attempt to write text in the 'Username' text box.
+	1. Click within the white space. 
+	2. Write.
+
+Expected results:
+	
+	Text entered by the user will be clearly portrayed
+in the text box. 
+
+Actions to take: 
+
+	Attempt to write text in the 'Password' text box.
+	1. Click within the white space. 
+	2. Write.
+
+
+Expected results:
+	
+	Text entered by the user will be protected
+and hidden.
+
