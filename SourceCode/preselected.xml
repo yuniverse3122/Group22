@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/black"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="401dp"
+        android:layout_height="56dp"
+        android:background="@color/white"
+        android:text="Jab Jab Straight"
+        android:textColor="@color/black"
+        app:backgroundTint="@color/white"
+        tools:layout_editor_absoluteX="5dp"
+        tools:layout_editor_absoluteY="240dp" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="400dp"
+        android:layout_height="58dp"
+        android:background="@color/white"
+        android:text="Jab Jab Left-Hook"
+        android:textColor="@color/black"
+        app:backgroundTint="@color/white"
+        tools:layout_editor_absoluteX="5dp"
+        tools:layout_editor_absoluteY="182dp" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="400dp"
+        android:layout_height="64dp"
+        android:background="@android:color/white"
+        android:text="Jab Jab Right Hook"
+        android:textColor="@color/black"
+        app:backgroundTint="@color/white"
+        tools:layout_editor_absoluteX="5dp"
+        tools:layout_editor_absoluteY="118dp" />
+
+    <Button
+        android:id="StartWorkout"
+        android:layout_width="408dp"
+        android:layout_height="96dp"
+        android:text="Start Workout"
+
+        app:backgroundTint="#B51313"
+        app:layout_constraintBottom_toBottomOf="parent"
+        tools:layout_editor_absoluteX="1dp" />
+
+    <Button
+        android:id="h"
+        android:layout_width="403dp"
+        android:layout_height="64dp"
+        android:text="Jab Straight Uppercut"
+        android:textColor="@color/black"
+
+        app:backgroundTint="@color/white"
+        tools:layout_editor_absoluteX="5dp"
+        tools:layout_editor_absoluteY="296dp" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName"
+        android:layout_width="344dp"
+        android:layout_height="60dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Preselected Workouts"
+        android:textColor="@color/white"
+        android:textSize="32sp"
+        tools:layout_editor_absoluteX="51dp"
+        tools:layout_editor_absoluteY="27dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
