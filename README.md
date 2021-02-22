@@ -66,5 +66,5 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 * Deron Gentles - Created the High Level architectural diagrams and helped make the design document.
 * David Yun - Visited the TI Innovation Lab to seek mechanical advice (with Tadeas Lobreis), drafted front end for multiple tab view for app development.
 * Jialin Zheng - Created the UI diagram and description of storing data.
-* Tadeas Lobreis - Worked on Trello Board, Created Sketch and Part list of Physical Model. Created ER diagram and description for UI for design document.
+* Tadeas Lobreis - Worked on Trello Board, Visisted TI Innovation Lab, Created two front end pages.
 
