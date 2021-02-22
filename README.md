@@ -58,13 +58,13 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 * [Source Code](https://github.com/yuniverse3122/Group22/tree/main/SourceCode)
 * [Automated Tests](https://github.com/yuniverse3122/Group22/tree/main/SourceCode)
 * [System Architecture](https://github.com/yuniverse3122/Group22/blob/main/architecture.md)
-* [Project Demonstration]()
+* [Project Demonstration](https://youtu.be/25siZ-gcsMA)
 
 
 ## Task Allocation
 * Eris Fitzgerald - Drafted the front end aesthetics for the login GUI, created manual tests, researched load/store methods for username and password records. 
-* Deron Gentles - Created the High Level architectural diagrams and helped make the design document.
+* Deron Gentles - Recored project demo and helped work on front end design.
 * David Yun - Visited the TI Innovation Lab to seek mechanical advice (with Tadeas Lobreis), drafted front end for multiple tab view for app development.
-* Jialin Zheng - Created the UI diagram and description of storing data.
+* Jialin Zheng - Created the main menu GUI and watched tutorials on front end web development.
 * Tadeas Lobreis - Worked on Trello Board, Visisted TI Innovation Lab, Created two front end pages.
 
