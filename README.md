@@ -37,6 +37,7 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 
 * [Burndown Chart](https://user-images.githubusercontent.com/78665808/107900885-4e5fe780-6f10-11eb-935d-50829ae0e021.png)
 
+* [System Architecture](https://github.com/yuniverse3122/Group22/blob/main/architecture.md)
 
 * [Velocity Chart](https://user-images.githubusercontent.com/78665808/107900895-528c0500-6f10-11eb-8fe5-e50437468e13.png)
 
@@ -51,20 +52,13 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 
 # Sprint 3
 * [Product Backlog]()
-
 * [Sprint Backlog]()
-
 * [Requirments]()
-
 * [Burndown Chart]()
-
-
 * [Velocity Chart]()
-
 * [Source Code](https://github.com/yuniverse3122/Group22/tree/main/SourceCode)
-
 * [Automated Tests](https://github.com/yuniverse3122/Group22/tree/main/SourceCode)
-
+* [System Architecture](https://github.com/yuniverse3122/Group22/blob/main/architecture.md)
 * [Project Demonstration]()
 
 
