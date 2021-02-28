@@ -68,3 +68,22 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 * Jialin Zheng - Created the main menu GUI and watched tutorials on front end web development.
 * Tadeas Lobreis - Worked on Trello Board, Visisted TI Innovation Lab, Created two front end pages.
 
+# Sprint 4
+
+* [Trello Board](https://trello.com/b/xMViNHQY/cop4331)
+* [Burndown Chart](https://user-images.githubusercontent.com/66040230/108653480-89c06000-7494-11eb-9d15-8b4dc051f112.png)
+* [Velocity Chart](https://user-images.githubusercontent.com/66040230/108652527-61376680-7492-11eb-96db-f98098bb6ea0.png)
+* [Source Code](https://github.com/yuniverse3122/Group22/tree/main/SourceCode)
+* [Automated Tests](https://github.com/yuniverse3122/Group22/tree/main/SourceCode)
+* [System Architecture](https://github.com/yuniverse3122/Group22/blob/main/architecture.md)
+* [Project Demonstration](https://youtu.be/25siZ-gcsMA)
+
+
+## Task Allocation
+* Eris Fitzgerald - 
+* Deron Gentles - 
+* David Yun - 
+* Jialin Zheng - 
+* Tadeas Lobreis - 
+
+
