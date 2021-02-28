@@ -80,7 +80,7 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 
 
 ## Task Allocation
-* Eris Fitzgerald - 
+* Eris Fitzgerald - Updated the Login GUI to have some more basic functionality, as well as carved out some more room/set foundations for future functionality. Researched the best ways to internally store usernames/passwords. 
 * Deron Gentles - 
 * David Yun - 
 * Jialin Zheng - 
