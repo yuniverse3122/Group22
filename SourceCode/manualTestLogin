@@ -4,26 +4,8 @@ Manual Test Procedures:
 GUI, built using the JAVA language. GUI is incapable of store
 and load features, but will be implemented next sprint. 
 
-Actions to take: 
-
-	Attempt to write text in the 'Username' text box.
-	1. Click within the white space. 
-	2. Write.
-
-Expected results:
-	
-	Text entered by the user will be clearly portrayed
-in the text box. 
-
-Actions to take: 
-
-	Attempt to write text in the 'Password' text box.
-	1. Click within the white space. 
-	2. Write.
-
-
-Expected results:
-	
-	Text entered by the user will be protected
-and hidden.
+1. 	Past the code in any IDE capable of creating JAVA based GUI. 		The Login screen should be displayed. 
+2. 	Attempt to type text into the Username box.  				The text should be displayed as written. Text can be entered by mouse click or focus using tab.
+3. 	Attempt to type the text into the Password box. 			The text should be displayed as asteriks or stars, not plain text. Text can be entered by mouse click or focus using tab.
+6. 	Click the 'Close' button. 						The application should close. 
 
