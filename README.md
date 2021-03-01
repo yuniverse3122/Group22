@@ -71,7 +71,7 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 # Sprint 4
 
 * [Trello Board](https://trello.com/b/xMViNHQY/cop4331)
-* [Burndown Chart](https://user-images.githubusercontent.com/66040230/109449066-83daf980-7a15-11eb-98be-b099d4f2e24b.png)
+* [Burndown Chart](https://user-images.githubusercontent.com/66040230/109449315-1da2a680-7a16-11eb-9844-37438049fc6f.png)
 * [Velocity Chart](https://user-images.githubusercontent.com/66040230/109443871-c1398a00-7a09-11eb-8556-9ddb20f36776.png)
 * [Source Code](https://github.com/yuniverse3122/Group22/tree/main/SourceCode)
 * [Automated Tests](https://github.com/yuniverse3122/Group22/tree/main/SourceCode)
