@@ -71,7 +71,7 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 # Sprint 4
 
 * [Trello Board](https://trello.com/b/xMViNHQY/cop4331)
-* [Burndown Chart](https://user-images.githubusercontent.com/66040230/109443912-df06ef00-7a09-11eb-935b-f5d4b5633a60.png)
+* [Burndown Chart](https://user-images.githubusercontent.com/66040230/109449066-83daf980-7a15-11eb-98be-b099d4f2e24b.png)
 * [Velocity Chart](https://user-images.githubusercontent.com/66040230/109443871-c1398a00-7a09-11eb-8556-9ddb20f36776.png)
 * [Source Code](https://github.com/yuniverse3122/Group22/tree/main/SourceCode)
 * [Automated Tests](https://github.com/yuniverse3122/Group22/tree/main/SourceCode)
@@ -82,7 +82,7 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 ## Task Allocation
 * Eris Fitzgerald - Updated the Login GUI to have some more basic functionality, as well as carved out some more room/set foundations for future functionality. Researched the best ways to internally store usernames/passwords. 
 * Deron Gentles - Worked on design of statistics page and its interaction with the workout history page.
-* David Yun - Created in-depth designs of the physical build of the project, requested a ticket number with the Innovation Lab, gathered resources for the base.
+* David Yun - Created in-depth designs of the physical build of the project, requested a ticket number with the Innovation Lab, gathered resources and built the base.
 * Jialin Zheng - 
 * Tadeas Lobreis - 
 
