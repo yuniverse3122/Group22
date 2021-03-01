@@ -84,6 +84,6 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 * Deron Gentles - Worked on design of statistics page and its interaction with the workout history page.
 * David Yun - Created in-depth designs of the physical build of the project, requested a ticket number with the Innovation Lab, gathered resources and built the base.
 * Jialin Zheng - Working the front-end, connecting multi activities.
-* Tadeas Lobreis - 
+* Tadeas Lobreis - Added functionality to buttons and further developed front end for preselected workouts. Also built the base of the robot.
 
 
