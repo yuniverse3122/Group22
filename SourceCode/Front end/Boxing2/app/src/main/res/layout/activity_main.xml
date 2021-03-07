@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:alpha="0.9"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:alpha="0.9"
+        android:background="#FFFFFF"
+        android:contentDescription="@string/todo"
+        android:visibility="visible"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/menu" />
+
+    <Button
+        android:id="@+id/Free_Mode"
+        android:layout_width="196dp"
+        android:layout_height="88dp"
+        android:layout_marginBottom="119dp"
+        android:alpha="0.9"
+        android:text="@string/free_mode"
+        android:textAllCaps="false"
+        android:textColor="#0B0B0B"
+        android:textSize="18sp"
+        app:backgroundTint="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Pre_selected" />
+
+    <Button
+        android:id="@+id/History"
+        android:layout_width="196dp"
+        android:layout_height="88dp"
+        android:layout_marginTop="186dp"
+        android:layout_marginBottom="51dp"
+        android:alpha="0.9"
+        android:text="@string/history"
+        android:textAllCaps="false"
+        android:textColor="#0B0B0B"
+        android:textSize="18sp"
+        app:backgroundTint="@color/white"
+        app:layout_constraintBottom_toTopOf="@+id/Pre_selected"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/Pre_selected"
+        android:layout_width="196dp"
+        android:layout_height="88dp"
+        android:layout_marginBottom="44dp"
+        android:alpha="0.9"
+        android:text="@string/pre_selected_workout"
+        android:textAllCaps="false"
+        android:textColor="#0B0B0B"
+        android:textSize="18sp"
+        app:backgroundTint="@color/white"
+        app:layout_constraintBottom_toTopOf="@+id/Free_Mode"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/History" />
+
+    <Button
+        android:id="@+id/SignOut"
+        android:layout_width="102dp"
+        android:layout_height="64dp"
+        android:alpha="0.9"
+        android:text="@string/sign_out"
+        android:textAllCaps="false"
+        android:textColor="#0B0B0B"
+        android:textSize="18sp"
+        app:backgroundTint="@color/white"
+        app:layout_constraintBottom_toTopOf="@+id/History"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.948"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.115" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
