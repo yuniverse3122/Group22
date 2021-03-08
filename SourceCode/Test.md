@@ -1,83 +1,21 @@
-﻿No. Steps to Reproduce	/// 						    Expected Behavior	
-
-1.Open the app ///    							    The Login screen should be displayed
-
-2. Open the login ///							    pageEmail & password text filed hint should be displayed
-
-3. Click the email and password text filed///				    The two text fields should be editable
-	
-4.Click the Login button///					    All text fields should be filled and check database if account exist, if not prompt error message.
-
-5. After sign up login clicked///					    The progress bar appears on the screen 
-
-6. Click the Registration button///					    The button leads user to registration page and registration page should be displayed
-
-7. Open the Registration page///						    Email & password & confirm password text filed hint should be displayed
-
-8.Click Email & password & confirm password text fields///			    All text fields should be editable.
-
-9.Click sign up button///							    All text fields should be filled and check:
-										If email format correctly
-										If password 8 characters long
-										If password & confirm password match
-										Then store info to firebase	
-
-10. After sign up button clicked///					    The progress bar appears on the screen 
-
-11. Open firebase///							    The email and password stored in firebase
-
-12.After sign in ///							    The menu page should be displayed	
-
-13.Open the menu page///							    “Free mode”, “Pre-selected Workout”, “History”, “Sign out” buttons should be displayed.
-
-14.Click sign out button///						    Sign out the menu page and return to Login page
-
-15.Click History button///							    History page should be displayed			
-
-16.Click Preselected workout///						    Preselected workout page should be displayed
-
-17.Open Preselected workout page///					    “Preselected Workout” label, “Jab-Jab Straight”, “Jab-Jab left hook”, “Jab-Jab right hook”, 
-									    “Jab-Jab straight Uppercut” “Start Workout” should be displayed
-
-18. Click “Free Mode” workout///						    Free mode page should be displayed
-
-19. Open Free Mode workout page///					    “Free Workout” label should be displayed on the screen, “Beginner”, “Intermedia”, 
-									    “Advanced”, three modes should be displayed
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
+| No. 	| Steps to Reproduce                      	| Expected Behavior                                                                                                              	|
+|-----	|-----------------------------------------	|--------------------------------------------------------------------------------------------------------------------------------	|
+| 1   	| Open the app                            	| The Login screen should be displayed                                                                                           	|
+| 2   	| Open the login                          	| Email and password text field should be displayed                                                                              	|
+| 3   	| Click the email and password text field 	| The two text fields should be editable                                                                                         	|
+| 4   	| Click the 'Login' button                	| Text fields should be filled and the application will check the database if the account exists, if not prompt an error message 	|
+| 5   	| Click the 'Sign up' button              	| The progress bar appears                                                                                                       	|
+| 6   	| Click the Registration button           	| The text fields for email, password, and confirm password should be displayed                                                  	|
+| 7   	| Click the Email text field              	| An error message will appear                                                                                                   	|
+| 8   	| Click the password text field           	| The text field should be editable                                                                                              	|
+| 9   	| Click the confirm password text field   	| The text field should be editable                                                                                              	|
+| 10  	| Click sign up button                    	| Will check if the email is formatted correctly, if password is 8 characters, if password and confirm match, store in firebase  	|
+| 11  	| Open firebase                           	| The email and password will be stored in firebase                                                                              	|
+| 12  	| After sign in                           	| The menu page should be displayed                                                                                              	|
+| 13  	| Open menu page                          	| The "Free mode", "Pre-selected Workout", "History", "Sign out" buttons should be displayed                                     	|
+| 14  	| Click sign out                          	| Sign out the menu page and return to the Login page                                                                            	|
+| 15  	| Click the History button                	| History page will be displayed                                                                                                 	|
+| 16  	| Click Preselected workout               	| Preselected workout page should be displayed                                                                                   	|
+| 17  	| Open preselected workout page           	| "Preselected Workout" label, "Jab-Jab Straight", "Jab-Jab left hook", "Jab-Jab right hook"                                     	|
+| 18  	| Click "Free mode" workout               	| Free mode page should displayed                                                                                                	|
+| 19  	| Open Free Mode                          	| "Free Workout" label should be displayed as well as "Beginner", "Intermediate", "Advanced"                                     	|
