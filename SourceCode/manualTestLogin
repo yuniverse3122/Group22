@@ -1,11 +1,15 @@
 Manual Test Procedures:
 
 	The following is the testing procedure for the Login
-GUI, built using the JAVA language. GUI is incapable of store
-and load features, but will be implemented next sprint. 
+GUI, built using the JAVA language. GUI stores username and password through Firebase. 
 
-1. 	Past the code in any IDE capable of creating JAVA based GUI. 		The Login screen should be displayed. 
-2. 	Attempt to type text into the Username box.  				The text should be displayed as written. Text can be entered by mouse click or focus using tab.
-3. 	Attempt to type the text into the Password box. 			The text should be displayed as asteriks or stars, not plain text. Text can be entered by mouse click or focus using tab.
-6. 	Click the 'Close' button. 						The application should close. 
 
+| No. 	| Steps to Reproduce                                                            	| Expected Behavior                                                  	|
+|-----	|-------------------------------------------------------------------------------	|--------------------------------------------------------------------	|
+| 1   	| Paste the code in any IDE capable of creating JAVA based GUI (Android Studio) 	| A login page for our work out app should appear                    	|
+| 2   	| Attempt to type the text into the Username box                                	| The text should be displayed as plain, readable text.              	|
+| 3   	| Attempt to type the text into the Password box                                	| The text should not be displayed, nor plain, nor readable               	|
+| 4   	| Click the 'Sign up' button                                                    	| User should be brough to a Register screen                       	|
+| 5   	| Click the 'Sign in' button                                                    	| If user credentials are correct, user will be brought to home page 	|
+| 6   	| Click the close button                                                        	| The application will close                                         	|
+| 7   	| Enter incorrect username or password                                          	| An error message will appear                                       	|
