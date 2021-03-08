@@ -103,4 +103,4 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 * Deron Gentles -Made the project demonstration and worked on manual tests.
 * David Yun - 
 * Jialin Zheng - Front-end update
-* Tadeas Lobreis - 
+* Tadeas Lobreis - Set up aurdnino with servo motor. Coded basic movements, as well as multiples preselected workouts
