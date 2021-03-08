@@ -101,6 +101,6 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 ## Task Allocation
 * Eris Fitzgerald - Added Velocity and Burndown charts for this sprint, formatted all our test cases (both manual and acceptance), updated UI diagrams to match current Frontend Design
 * Deron Gentles -Made the project demonstration and worked on manual tests.
-* David Yun - 
+* David Yun - Updated the front end aesthetics, researched information on accelerometer and force sensors, created a foundation setup for the motor and power supply.
 * Jialin Zheng - Front-end update
 * Tadeas Lobreis - Set up aurdnino with servo motor. Coded basic movements, as well as multiple preselected workouts
