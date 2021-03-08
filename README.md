@@ -89,16 +89,17 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 # Sprint 5
 
 * [Trello Board](https://trello.com/b/xMViNHQY/cop4331)
-* [Burndown Chart](https://user-images.githubusercontent.com/66040230/109449315-1da2a680-7a16-11eb-9844-37438049fc6f.png)
-* [Velocity Chart](https://user-images.githubusercontent.com/78665808/110266630-3964fa00-7f8c-11eb-8135-1806a01f5307.png)
+* [Burndown Chart](https://user-images.githubusercontent.com/78665808/110266794-92cd2900-7f8c-11eb-97b1-f2011c2d88b3.png)
+* [Velocity Chart](https://user-images.githubusercontent.com/78665808/110266779-89dc5780-7f8c-11eb-87d7-32ef82d42840.png)
 * [Source Code](https://github.com/yuniverse3122/Group22/tree/main/SourceCode)
 * [Automated Tests](https://github.com/yuniverse3122/Group22/tree/main/SourceCode)
 * [System Architecture](https://github.com/yuniverse3122/Group22/blob/main/architecture.md)
 * [Project Demonstration](https://youtu.be/25siZ-gcsMA)
 
 
+
 ## Task Allocation
-* Eris Fitzgerald - 
+* Eris Fitzgerald - Added Velocity and Burndown charts for this sprint, formatted all our test cases (both manual and acceptance), updated UI diagrams to match current Frontend Design
 * Deron Gentles -
 * David Yun - 
 * Jialin Zheng - Front-end update
