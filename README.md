@@ -90,7 +90,7 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 
 * [Trello Board](https://trello.com/b/xMViNHQY/cop4331)
 * [Burndown Chart](https://user-images.githubusercontent.com/66040230/109449315-1da2a680-7a16-11eb-9844-37438049fc6f.png)
-* [Velocity Chart](https://user-images.githubusercontent.com/66040230/109443871-c1398a00-7a09-11eb-8556-9ddb20f36776.png)
+* [Velocity Chart](https://user-images.githubusercontent.com/78665808/110266630-3964fa00-7f8c-11eb-8135-1806a01f5307.png)
 * [Source Code](https://github.com/yuniverse3122/Group22/tree/main/SourceCode)
 * [Automated Tests](https://github.com/yuniverse3122/Group22/tree/main/SourceCode)
 * [System Architecture](https://github.com/yuniverse3122/Group22/blob/main/architecture.md)
