@@ -86,4 +86,20 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 * Jialin Zheng - Working the front-end, connecting multi activities.
 * Tadeas Lobreis - Added functionality to buttons and further developed front end for preselected workouts. Also built the base of the robot.
 
+# Sprint 5
 
+* [Trello Board](https://trello.com/b/xMViNHQY/cop4331)
+* [Burndown Chart](https://user-images.githubusercontent.com/66040230/109449315-1da2a680-7a16-11eb-9844-37438049fc6f.png)
+* [Velocity Chart](https://user-images.githubusercontent.com/66040230/109443871-c1398a00-7a09-11eb-8556-9ddb20f36776.png)
+* [Source Code](https://github.com/yuniverse3122/Group22/tree/main/SourceCode)
+* [Automated Tests](https://github.com/yuniverse3122/Group22/tree/main/SourceCode)
+* [System Architecture](https://github.com/yuniverse3122/Group22/blob/main/architecture.md)
+* [Project Demonstration](https://youtu.be/25siZ-gcsMA)
+
+
+## Task Allocation
+* Eris Fitzgerald - 
+* Deron Gentles -
+* David Yun - 
+* Jialin Zheng - 
+* Tadeas Lobreis - 
