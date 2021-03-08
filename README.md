@@ -101,5 +101,5 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 * Eris Fitzgerald - 
 * Deron Gentles -
 * David Yun - 
-* Jialin Zheng - 
+* Jialin Zheng - Front-end update
 * Tadeas Lobreis - 
