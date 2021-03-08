@@ -94,13 +94,13 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 * [Source Code](https://github.com/yuniverse3122/Group22/tree/main/SourceCode)
 * [Automated Tests](https://github.com/yuniverse3122/Group22/tree/main/SourceCode)
 * [System Architecture](https://github.com/yuniverse3122/Group22/blob/main/architecture.md)
-* [Project Demonstration](https://youtu.be/25siZ-gcsMA)
+* [Project Demonstration](https://youtu.be/ySWHLh5L-nE)
 
 
 
 ## Task Allocation
 * Eris Fitzgerald - Added Velocity and Burndown charts for this sprint, formatted all our test cases (both manual and acceptance), updated UI diagrams to match current Frontend Design
-* Deron Gentles -
+* Deron Gentles -Made the project demonstration and worked on manual tests.
 * David Yun - 
 * Jialin Zheng - Front-end update
 * Tadeas Lobreis - 
