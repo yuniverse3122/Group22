@@ -104,3 +104,23 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 * David Yun - Updated the front end aesthetics, researched information on accelerometer and force sensors, created a foundation setup for the motor and power supply.
 * Jialin Zheng - Front-end update
 * Tadeas Lobreis - Set up aurdnino with servo motor. Coded basic movements, as well as multiple preselected workouts
+
+# Sprint 6
+
+* [Trello Board](https://trello.com/b/xMViNHQY/cop4331)
+* [Burndown Chart](https://user-images.githubusercontent.com/78665808/110266794-92cd2900-7f8c-11eb-97b1-f2011c2d88b3.png)
+* [Velocity Chart](https://user-images.githubusercontent.com/78665808/110266779-89dc5780-7f8c-11eb-87d7-32ef82d42840.png)
+* [Source Code](https://github.com/yuniverse3122/Group22/tree/main/SourceCode)
+* [Automated Tests](https://github.com/yuniverse3122/Group22/tree/main/SourceCode)
+* [System Architecture](https://github.com/yuniverse3122/Group22/blob/main/architecture.md)
+* [Project Demonstration](https://youtu.be/ySWHLh5L-nE)
+
+
+
+## Task Allocation
+* Eris Fitzgerald - Coded up basic communication between DUM and our front end including the presets for the work outs. 
+* Deron Gentles -
+* David Yun - 
+* Jialin Zheng - 
+* Tadeas Lobreis - 
+
