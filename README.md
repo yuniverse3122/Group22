@@ -120,7 +120,7 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 ## Task Allocation
 * Eris Fitzgerald - Coded up basic communication between DUM and our front end including the presets for the work outs. 
 * Deron Gentles - Added a manual test for the preselected workout feature as well as the velocity and burndown charts for this sprint. 
-* David Yun - Made adjustments to the foundation. Assisted in the coding of pre-selected modes.
+* David Yun - Made adjustments to the foundation. Coded movement for Free mode.
 * Jialin Zheng - 
-* Tadeas Lobreis - Assisted in making adjustments to the foundation, made tests for the pre-selected movement, and coded movement for pre-selected modes.
+* Tadeas Lobreis - Made adjustments to the foundation, made tests for the pre-selected movement, and coded movement for Free mode.
 
