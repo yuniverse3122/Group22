@@ -105,6 +105,7 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 * Jialin Zheng - Front-end update
 * Tadeas Lobreis - Set up aurdnino with servo motor. Coded basic movements, as well as multiple preselected workouts
 
+
 # Sprint 6
 
 * [Trello Board](https://trello.com/b/xMViNHQY/cop4331)
@@ -122,5 +123,5 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 * Deron Gentles - Added a manual test for the preselected workout feature as well as the velocity and burndown charts for this sprint. 
 * David Yun - Made adjustments to the foundation. Coded movement for Free mode.
 * Jialin Zheng - 
-* Tadeas Lobreis - Made adjustments to the foundation, made tests for the pre-selected movement, and coded movement for Free mode.
+* Tadeas Lobreis - Made adjustments to the foundation, made tests for the Free Mode movement, and coded movement for Free mode.
 
