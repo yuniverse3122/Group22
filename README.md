@@ -111,8 +111,8 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 * [Burndown Chart](https://user-images.githubusercontent.com/65682018/111095877-c2dc7500-8514-11eb-92a8-15036b08defb.png)
 * [Velocity Chart](https://user-images.githubusercontent.com/65682018/111093532-91ad7600-850f-11eb-978a-eefb6342d73c.png)
 * [Source Code](https://github.com/yuniverse3122/Group22/tree/main/SourceCode)
-* [Automated Tests](https://github.com/yuniverse3122/Group22/tree/main/SourceCode)
-* [System Architecture](https://github.com/yuniverse3122/Group22/blob/main/architecture.md)
+* [Automated Tests](https://github.com/yuniverse3122/Group22/tree/main/SourceCode/Test)
+* [System Architecture](https://github.com/yuniverse3122/Group22/blob/main/Design/architecture.md)
 * [Project Demonstration](https://youtu.be/ySWHLh5L-nE)
 
 
