@@ -119,7 +119,7 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 
 ## Task Allocation
 * Eris Fitzgerald - Coded up basic communication between DUM and our front end including the presets for the work outs. 
-* Deron Gentles - Added Velocity and Burndown charts for this sprint.
+* Deron Gentles - Added a manual test for the preselected workout feature as well as the velocity and burndown charts for this sprint. 
 * David Yun - 
 * Jialin Zheng - 
 * Tadeas Lobreis - 
