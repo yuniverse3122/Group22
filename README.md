@@ -123,6 +123,6 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 * Eris Fitzgerald - Coded up basic communication between DUM and our front end including the presets for the work outs. 
 * Deron Gentles - Added a manual test for the preselected workout feature as well as the velocity and burndown charts for this sprint. 
 * David Yun - Made adjustments to the foundation. Coded movement for Free mode.
-* Jialin Zheng - 
+* Jialin Zheng - Keep updating front-end work and research connect hardware data to app.
 * Tadeas Lobreis - Made adjustments to the foundation, made tests for the Free Mode movement, and coded movement for Free mode.
 
