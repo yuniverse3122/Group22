@@ -19,16 +19,18 @@ public class Freeworkout extends AppCompatActivity {
 
     @Override
     public void onclick(View v){
-      WorkoutData data = new Workout(System.currentTimeMillis());
+      Workout data = new Workout(System.currentTimeMillis());
+      data.workoutType = "Free Workout";
       switch (v.getID()){
         case R.id.Beginner:
-        data.workoutType = "Beginner Free Workout";
+        data.difficulty = 1;
         break;
         case R.id.Intermediate:
-        data.workoutType = "Intermediate Free Workout";
+        data.difficulty = 2;
         break;
         case R.id.Advanced:
-        data.workoutType = "Advanced Free Workout";
+        data.difficulty = 3;
         break;
       }
 }
+
