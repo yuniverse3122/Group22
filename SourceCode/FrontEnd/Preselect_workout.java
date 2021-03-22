@@ -21,7 +21,7 @@ public class Preselect_workout extends AppCompatActivity {
     public void onclick(View v){
       switch (v.getID()){
         case R.id.StartWorkout:
-        WorkoutData data = new Workout(System.currentTimeMillis());
+        Workout data = new Workout(System.currentTimeMillis());
         data.workoutType = "Preselected";
       }
     }
