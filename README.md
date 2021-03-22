@@ -143,6 +143,6 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 ## Task Allocation
 * Eris Fitzgerald - 
 * Deron Gentles - Created Workout.java, updated preselect and free workout features.
-* David Yun - 
+* David Yun - Added classes and xml files for Bluetooth connection with Arduino.
 * Jialin Zheng - Done front end design. Research socketing programinng for data transfer.
 * Tadeas Lobreis - 
