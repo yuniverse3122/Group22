@@ -9,7 +9,7 @@
 
 
     <Button
-        android:id="@+id/button3"
+        android:id="Advanced"
         android:layout_width="289dp"
         android:layout_height="130dp"
         android:text="Advanced"
@@ -18,7 +18,7 @@
         tools:layout_editor_absoluteY="466dp" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="Intermediate"
         android:layout_width="289dp"
         android:layout_height="130dp"
         android:text="Intermediate"
@@ -39,7 +39,7 @@
         tools:layout_editor_absoluteY="16dp" />
 
     <Button
-        android:id="@+id/button"
+        android:id="Beginner"
         android:layout_width="289dp"
         android:layout_height="130dp"
         android:text="Beginner"
