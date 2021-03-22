@@ -126,3 +126,23 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 * Jialin Zheng - Keep updating front-end work and research connect hardware data to app.
 * Tadeas Lobreis - Made adjustments to the foundation, made tests for the Free Mode movement, and coded movement for Free mode.
 
+
+# Sprint 7
+
+* [Trello Board](https://trello.com/b/xMViNHQY/cop4331)
+* [Burndown Chart](https://user-images.githubusercontent.com/65682018/111932088-127dec00-8a93-11eb-82ed-a32389028a9a.png)
+* [Velocity Chart](https://user-images.githubusercontent.com/65682018/111931617-ef9f0800-8a91-11eb-8b57-e10956092f4d.png)
+* [Source Code](https://github.com/yuniverse3122/Group22/tree/main/SourceCode)
+* [Automated Tests](https://github.com/yuniverse3122/Group22/tree/main/SourceCode/Test)
+* [System Architecture](https://github.com/yuniverse3122/Group22/blob/main/Design/architecture.md)
+* [Project Demonstration](https://youtu.be/ySWHLh5L-nE)
+* [Video Demo of DUM Arm Test](https://youtu.be/eb71ZdQi-s0)
+
+
+
+## Task Allocation
+* Eris Fitzgerald - 
+* Deron Gentles - Created WorkoutData.java, updated preselect and free workout features.
+* David Yun - 
+* Jialin Zheng - 
+* Tadeas Lobreis - 
