@@ -164,6 +164,6 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 * Eris Fitzgerald - Worked on project documentation and researched competitive market.
 * Deron Gentles - Worked on project documentation, planned for future improvements and helped make project presentation.
 * David Yun - Added bluetooth capabilities. Implemented pressure sensor and camera. Helped make project presentation. 
-* Jialin Zheng - 
+* Jialin Zheng - Project presentation and research on socket programing.
 * Tadeas Lobreis - Added bluetooth capabilities. Implemented pressure sensor and camera. Helped make project presentation. 
 
