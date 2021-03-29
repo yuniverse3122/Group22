@@ -163,7 +163,7 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 ## Task Allocation
 * Eris Fitzgerald - 
 * Deron Gentles - 
-* David Yun - 
+* David Yun - Added bluetooth capabilities. Implemented pressure sensor and camera. Helped make project presentation. 
 * Jialin Zheng - 
-* Tadeas Lobreis - 
+* Tadeas Lobreis - Added bluetooth capabilities. Implemented pressure sensor and camera. Helped make project presentation. 
 
