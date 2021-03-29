@@ -161,7 +161,7 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 
 
 ## Task Allocation
-* Eris Fitzgerald - 
+* Eris Fitzgerald - Worked on project documentation and researched competitive market.
 * Deron Gentles - 
 * David Yun - Added bluetooth capabilities. Implemented pressure sensor and camera. Helped make project presentation. 
 * Jialin Zheng - 
