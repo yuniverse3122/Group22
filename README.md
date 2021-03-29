@@ -146,3 +146,24 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 * David Yun - Added classes and xml files for Bluetooth connection with Arduino.
 * Jialin Zheng - Done front end design. Research socketing programinng for data transfer.
 * Tadeas Lobreis - Further testing and improvment of physical design and structure. Helped connecting aurdino to andriod studio via bluetooth.
+
+# Sprint 8
+
+* [Trello Board](https://trello.com/b/xMViNHQY/cop4331)
+* [Burndown Chart](https://user-images.githubusercontent.com/65682018/111932088-127dec00-8a93-11eb-82ed-a32389028a9a.png)
+* [Velocity Chart](https://user-images.githubusercontent.com/65682018/111931617-ef9f0800-8a91-11eb-8b57-e10956092f4d.png)
+* [Source Code](https://github.com/yuniverse3122/Group22/tree/main/SourceCode)
+* [Automated Tests](https://github.com/yuniverse3122/Group22/tree/main/SourceCode/Test)
+* [System Architecture](https://github.com/yuniverse3122/Group22/blob/main/Design/architecture.md)
+* [Project Demonstration](https://youtu.be/ySWHLh5L-nE)
+* [Video Demo of DUM Arm Test](https://youtu.be/eb71ZdQi-s0)
+
+
+
+## Task Allocation
+* Eris Fitzgerald - 
+* Deron Gentles - 
+* David Yun - 
+* Jialin Zheng - 
+* Tadeas Lobreis - 
+
