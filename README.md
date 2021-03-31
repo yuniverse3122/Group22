@@ -157,6 +157,7 @@ In the world of MMA and Boxing, methods of training combat have been the same fo
 * [System Architecture](https://github.com/yuniverse3122/Group22/blob/main/Design/architecture.md)
 * [Project Demonstration](https://youtu.be/ySWHLh5L-nE)
 * [Video Demo of DUM Arm Test](https://youtu.be/eb71ZdQi-s0)
+* [Video Demo](https://youtu.be/OJoeAnFU0H4)
 
 
 
